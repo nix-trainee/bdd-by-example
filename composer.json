@@ -1,0 +1,15 @@
+{
+    "name": "nix-trainee/bdd-by-example",
+    "authors": [
+        {
+            "name": "Pavel Machekhin",
+            "email": "pavel.machekhin@gmail.com"
+        }
+    ],
+    "require": {
+      "behat/behat": "2.4.*@stable",
+      "behat/mink": "1.5.*@stable",
+      "behat/mink-extension": "*",
+      "behat/mink-goutte-driver": "1.0.*"
+    }
+}
